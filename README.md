@@ -11,6 +11,6 @@ Describe your results.
 #### part a. (5 points)
 Detail your dataset for the final project and pose the research question you plan to answer.
 
-#### part b.
+#### part b. (5 points)
 Create a data visualization for your dataset and include a caption for this graphic.
 
